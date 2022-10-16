@@ -8,7 +8,7 @@ if (num1 > num2)
 {
     Console.Write($"{num1} - максимальное число");
 }
-else (num2 > num1)
+else
 {
     Console.Write($"{num2} - максимальное число");
 }
